@@ -1,0 +1,28 @@
+/*-- Use For Custom Styling --*/
+
+/* Reduce navbar height */
+.navbar-top-default {
+    height: 80px !important;
+}
+
+/* Reduce logo size in navbar */
+.logo {
+    width: 200px !important;
+    height: 200px !important;
+}
+
+.logo img,
+.logo span img {
+    max-width: 200px !important;
+    max-height: 200px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* Reduce logo size in side menu */
+.side-menu .inner-wrapper img {
+    max-width: 200px !important;
+    max-height: 200px !important;
+    width: auto !important;
+    height: auto !important;
+}
